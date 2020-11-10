@@ -19,14 +19,12 @@
   padding: 1rem;
 }
 
-.music,
 .ministry,
 .me{
   padding: 3rem;
   border: 2px solid #f9ff7d;
 }
 
-.music p,
 .ministry p,
 .me p{
   font-size: 1.75rem;
