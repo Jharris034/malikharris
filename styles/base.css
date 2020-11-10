@@ -5,6 +5,16 @@
   background-size: cover;
   min-height: 40vh;
   padding: 3rem;
-    
+  }
 
+.row {
+  display: flex;
+  -webkit-display: flex;
+  margin-left: -1rem;
+  margin-right: -1rem;
+}
+
+.col {
+  flex-grow: 1;
+  padding: 1rem;
 }
